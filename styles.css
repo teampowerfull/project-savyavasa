@@ -435,6 +435,14 @@ input[type='checkbox'] {
 }
 /* end of form success and error message formatting */
 
+.container .center{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+
+
 /* Form Success And Error Message Animation - Animate.css */
 @-webkit-keyframes tada {
 	from {
