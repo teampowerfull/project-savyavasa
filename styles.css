@@ -1884,7 +1884,7 @@ html, body {
   font-size: 18px;
 }
 
-button {
+.kontakbutton {
   border: none;
   outline: 0;
   display: inline-block;
